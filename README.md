@@ -14,8 +14,9 @@ I'm a Computer Science student passionate about backend development, databases, 
 - **Weather CLI Application**- https://github.com/Michaszek224/goCliWeatherPublic
 
 ## 🔭 Current Projects
-- **Handwriting scanner** 📱 (Kotlin) – Android app for scanning and converting handwritten text to PDF
-- **Tomography Simulator** 🏥 (Python) – Jupyter Notebook implementation
+- **Handwriting scanner** 📱 (Kotlin) – [Android app for scanning and converting handwritten text to PDF](https://github.com/Michaszek224/handToPdfKotlin)
+- **Tomography Simulator** 🏥 (Python) – [Jupyter Notebook implementation](https://github.com/Michaszek224/informatykaWMedycynie/Tomograf)
+- **Gym Tracker** (Golang) [Golang/Postgresql app for tracking gym activities](https://github.com/Michaszek224/gymTracker)
 
 ## 📚 Learning Goals
 - Improve my skills in backend development using Go
