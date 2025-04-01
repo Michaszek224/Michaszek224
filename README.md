@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Michał
 
 ## 💻 About Me
-I'm a Computer Science student passionate about backend development, databases, and machine learning.
+I'm a Computer Science student passionate about backend development, databases, and machine learning. I also enjoy using AI tools to enhance productivity and make things easier.
 
 ## 🚀 Technologies & Tools
 - **Backend:** Golang, Python, SQL
@@ -10,8 +10,11 @@ I'm a Computer Science student passionate about backend development, databases, 
 - **Python Techstack:** Numpy, Pandas, Matplotlib, Seaborn, Flask, Django
 - **DevOps & Tools:** Linux, Docker, Git
 
+## Finished Projects
+- **Weather CLI Application**- https://github.com/Michaszek224/goCliWeatherPublic
+
 ## 🔭 Current Projects
-- **Handwrite scanner** 📱 (Kotlin) – Android app for scan and convert handwrited text to pdf
+- **Handwriting scanner** 📱 (Kotlin) – Android app for scanning and converting handwritten text to PDF
 - **Tomography Simulator** 🏥 (Python) – Jupyter Notebook implementation
 
 ## 📚 Learning Goals
