@@ -23,8 +23,8 @@ I'm a Computer Science student passionate about backend development, databases, 
 - Build and deploy real-world applications
 
 ## 📫 Contact Me
-- **GitHub:** [Your GitHub Profile](https://github.com/Michaszek224)
-- **LinkedIn:** [Your LinkedIn]https://www.linkedin.com/in/michał-puńko224/)
+- **GitHub:** [Link to Github Profile](https://github.com/Michaszek224)
+- **LinkedIn:** [Link to LinkedIn](https://www.linkedin.com/in/michał-puńko224/)
 
 Let's connect and collaborate! 🚀
 
