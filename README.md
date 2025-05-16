@@ -13,6 +13,7 @@ I'm a Computer Science student passionate about backend development, databases, 
 ## Finished Projects
 - **Weather CLI Application**- https://github.com/Michaszek224/goCliWeatherPublic
 - **Gym Tracker** (Python) [Python app for tracking gym activities](https://github.com/Michaszek224/gymTracker)
+- **Simple Cli Todo** (Golang, Sqlite) [Todo app](https://github.com/Michaszek224/cliGolangAppTodo)
 
 ## 🔭 Current Projects
 - **Handwriting scanner** 📱 (Kotlin) – [Android app for scanning and converting handwritten text to PDF](https://github.com/Michaszek224/handToPdfKotlin)
