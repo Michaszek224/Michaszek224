@@ -12,6 +12,7 @@ I'm a Computer Science student passionate about backend development, databases, 
 
 ## Finished Projects
 - **Weather CLI Application**- https://github.com/Michaszek224/goCliWeatherPublic
+- **Crud Pokemon Application** (golang, postgresql, docker) [Crud apliaction using contarization with docker](https://github.com/Michaszek224/pokemonapp)
 - **Gym Tracker** (Python) [Python app for tracking gym activities](https://github.com/Michaszek224/gymTracker)
 - **Simple Cli Todo** (Golang, Sqlite) [Todo app](https://github.com/Michaszek224/cliGolangAppTodo)
 - **Tomography Simulator** 🏥 (Python) – [Jupyter Notebook implementation](https://github.com/Michaszek224/informatykaWMedycynie/tree/main/tomograf)
