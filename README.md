@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Michał
 
 ## 💻 About Me
-I'm a Computer Science student passionate about backend development, databases, and machine learning. I also enjoy using AI tools to enhance productivity and make things easier.
+I'm a Computer Science student passionate about backend development, databases, big data. I also enjoy using AI tools to enhance productivity and make things easier.
 
 ## 🚀 Technologies & Tools
 - **Backend:** Golang, Python, SQL
