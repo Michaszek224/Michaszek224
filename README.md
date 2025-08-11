@@ -22,10 +22,18 @@ I'm a Computer Science student passionate about backend development, databases, 
 - **Simple Cli Todo** (Golang, Sqlite) [Todo app](https://github.com/Michaszek224/cliGolangAppTodo)
 - **Tomography Simulator** 🏥 (Python) – [Jupyter Notebook implementation](https://github.com/Michaszek224/informatykaWMedycynie/tree/main/tomograf)
 
+## Unfinished Projects
+- **Real time online communicator** (golang, websockets) [Communicator](https://github.com/Michaszek224/realTimeCommunicator)
+
+## Future Project ideas
+- **Battleship game**
+
+
 ## 📚 Learning Goals
 - Improve my skills in backend development using Go
 - Gain more experience with machine learning applications
 - Build and deploy real-world applications
+- Learn rust
 
 ## 📫 Contact Me
 - **GitHub:** [Link to Github Profile](https://github.com/Michaszek224)
