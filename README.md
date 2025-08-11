@@ -4,7 +4,7 @@
 I'm a Computer Science student passionate about backend development, databases, big data. I also enjoy using AI tools to enhance productivity and make things easier.
 
 ## For Job Recruiters
-- I`m mainly looking for work in golang, python or rust. 
+- I`m mainly looking for work/ internship in golang, python or rust. 
 
 
 ## 🚀 Technologies & Tools
