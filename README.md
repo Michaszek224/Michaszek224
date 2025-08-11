@@ -3,12 +3,17 @@
 ## 💻 About Me
 I'm a Computer Science student passionate about backend development, databases, big data. I also enjoy using AI tools to enhance productivity and make things easier.
 
+## For Job Recruiters
+- I`m mainly looking for work in golang, python or rust. 
+
+
 ## 🚀 Technologies & Tools
 - **Backend:** Golang, Python, SQL
 - **Databases:** PostgreSQL, MySQL
 - **Machine Learning:** PyTorch, Scikit-learn
 - **Python Techstack:** Numpy, Pandas, Matplotlib, Seaborn, Flask, Django
 - **DevOps & Tools:** Linux, Docker, Git
+- **Rust:** Rust
 
 ## Finished Projects
 - **Weather CLI Application**- https://github.com/Michaszek224/goCliWeatherPublic
