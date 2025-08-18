@@ -24,6 +24,7 @@ I'm a Computer Science student passionate about backend development, databases, 
 
 ## Unfinished Projects
 - **Real time online communicator** (golang, websockets) [Communicator](https://github.com/Michaszek224/realTimeCommunicator)
+- **Cli Racer Game** (golang) [Cli Racer Game](https://github.com/Michaszek224/racerCli)
 
 ## Future Project ideas
 - **Battleship game**
