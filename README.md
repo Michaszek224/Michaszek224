@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Michał
+# Hi there! 👋 I'm Michał 1,0x dev
 
 ## 💻 About Me
 I'm a Computer Science student passionate about backend development, databases, big data. I also enjoy using AI tools to enhance productivity and make things easier.
