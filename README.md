@@ -21,10 +21,11 @@ I'm a Computer Science student passionate about backend development, databases, 
 - **Gym Tracker** (Python) [Python app for tracking gym activities](https://github.com/Michaszek224/gymTracker)
 - **Simple Cli Todo** (Golang, Sqlite) [Todo app](https://github.com/Michaszek224/cliGolangAppTodo)
 - **Tomography Simulator** 🏥 (Python) – [Jupyter Notebook implementation](https://github.com/Michaszek224/informatykaWMedycynie/tree/main/tomograf)
-
-## Unfinished Projects
-- **Real time online communicator** (golang, websockets) [Communicator](https://github.com/Michaszek224/realTimeCommunicator)
 - **Cli Racer Game** (golang) [Cli Racer Game](https://github.com/Michaszek224/racerCli)
+
+## Current Projects
+- **Real time online communicator** (golang, websockets) [Communicator](https://github.com/Michaszek224/realTimeCommunicator)
+- **Password Storage** (golang) [Storage](https://github.com/Michaszek224/passwordStorage)
 
 ## Future Project ideas
 - **Battleship game**
