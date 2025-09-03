@@ -25,7 +25,7 @@ I'm a Computer Science student passionate about backend development, databases, 
 
 ## Current Projects
 - **Real time online communicator** (golang, websockets) [Communicator](https://github.com/Michaszek224/realTimeCommunicator)
-- **Password Storage** (golang) [Storage](https://github.com/Michaszek224/passwordStorage)
+- **Password Storage** (golang) [Password Manager](https://github.com/Michaszek224/passwordStorage)
 
 ## Future Project ideas
 - **Battleship game**
