@@ -16,6 +16,7 @@ I'm a Computer Science student passionate about backend development, databases, 
 - **Rust:** Rust
 
 ## Finished Projects
+- **Password Storage** (golang) [Password Manager](https://github.com/Michaszek224/passwordStorage)
 - **Weather CLI Application**- https://github.com/Michaszek224/goCliWeatherPublic
 - **Crud Pokemon Application** (golang, postgresql, docker) [Crud apliaction using contarization with docker](https://github.com/Michaszek224/pokemonapp)
 - **Gym Tracker** (Python) [Python app for tracking gym activities](https://github.com/Michaszek224/gymTracker)
@@ -25,7 +26,6 @@ I'm a Computer Science student passionate about backend development, databases, 
 
 ## Current Projects
 - **Real time online communicator** (golang, websockets) [Communicator](https://github.com/Michaszek224/realTimeCommunicator)
-- **Password Storage** (golang) [Password Manager](https://github.com/Michaszek224/passwordStorage)
 
 ## Future Project ideas
 - **Battleship game**
