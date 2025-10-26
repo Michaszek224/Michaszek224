@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Michał 1,0x dev
+# Hi there!  I'm Michał 1x dev
 
 ## 💻 About Me
 I'm a Computer Science student passionate about backend development, databases, big data. I also enjoy using AI tools to enhance productivity and make things easier.
@@ -7,13 +7,16 @@ I'm a Computer Science student passionate about backend development, databases, 
 - I`m mainly looking for work/ internship in golang, python or rust. 
 
 
-## 🚀 Technologies & Tools
+##  Technologies & Tools
 - **Backend:** Golang, Python, SQL
 - **Databases:** PostgreSQL, MySQL
 - **Machine Learning:** PyTorch, Scikit-learn
 - **Python Techstack:** Numpy, Pandas, Matplotlib, Seaborn, Flask, Django
 - **DevOps & Tools:** Linux, Docker, Git
 - **Rust:** Rust
+
+## Rust Projects
+- 
 
 ## Finished Projects
 - **Password Storage** (golang) [Password Manager](https://github.com/Michaszek224/passwordStorage)
@@ -31,13 +34,13 @@ I'm a Computer Science student passionate about backend development, databases, 
 - **Battleship game**
 
 
-## 📚 Learning Goals
+## Learning Goals
 - Improve my skills in backend development using Go
 - Gain more experience with machine learning applications
 - Build and deploy real-world applications
 - Learn rust
 
-## 📫 Contact Me
+## Contact Me
 - **GitHub:** [Link to Github Profile](https://github.com/Michaszek224)
 - **LinkedIn:** [Link to LinkedIn](https://www.linkedin.com/in/michał-puńko224/)
 
