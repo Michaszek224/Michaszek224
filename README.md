@@ -16,8 +16,8 @@ I'm a Computer Science student passionate about backend development, databases, 
 - **Rust:** Rust
 - **Current Os** Arch(Wayland, Kde Plasma)
   
-## Rust Projects
-- Working on cool tui(see soon)
+## Ci/Cd Projects
+- **First Time with Github Actions** (golang, docker, github actions) [First Time](https://github.com/Michaszek224/CiCdTest)
 
 ## Finished Projects
 - **Password Storage** (golang) [Password Manager](https://github.com/Michaszek224/passwordStorage)
