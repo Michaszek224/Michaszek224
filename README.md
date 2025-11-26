@@ -16,7 +16,6 @@ I'm a Computer Science student passionate about backend development, databases, 
 - **Current Os** Arch(Wayland, Kde Plasma)
   
 ## Ci/Cd Projects
-- **First Time with Github Actions** (golang, docker, github actions) [First Time](https://github.com/Michaszek224/CiCdTest)
 - **Modern Pokedex**(golang, docker, docker-compose, github-actions, postgresql, redis) [Modern Pokedex](https://github.com/Michaszek224/modernPokedex)
 
 ## Finished Projects
