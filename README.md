@@ -29,8 +29,9 @@ I'm a Computer Science student passionate about backend development, databases, 
 
 ## Learning Goals
 - Improve my skills in backend development using Go
-- Learn more DevOps stack, currently learning github-actions, k8s
-- Learn cloud
+- Learn more DevOps stack, k8s
+- Currently learning rabbitmq and grpc
+- Learn cloud, 
 - Project with redis, grpc
 - Build and deploy real-world applications
 - Learn rust
