@@ -12,7 +12,8 @@ I'm a Computer Science student passionate about backend development, databases, 
 - **DevOps & Tools:** Linux, Docker, Docker-Compose, Git, GitHub, Github-Actions, Postman, Httpie
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 - **Machine Learning:** PyTorch, Scikit-learn
-- **Python Techstack:** Numpy, Pandas, Matplotlib, Seaborn, Flask, Django, 
+- **Data Engineering:** PySpark, Apache Airflow, Hadoop
+- **Python Techstack:** Numpy, Pandas, Matplotlib, Seaborn, Flask, Django
 - **Current Os** Arch(Wayland, Kde Plasma)
   
 ## Ci/Cd Projects
