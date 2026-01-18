@@ -1,7 +1,7 @@
 # Hi there!  I'm Michał 1x dev
 
 ## About Me
-I'm a Computer Science student passionate about backend development, databases, big data and devops. I also enjoy using AI tools to enhance productivity and make things easier. Huge linux enthusiast, currently working on arch(main) and fedora. 
+I'm a Computer Science student passionate about backend development, databases, big data and ai/ml. I also enjoy using AI tools to enhance productivity and make things easier. Huge linux enthusiast, currently working on arch(main) and fedora. 
 
 ## For Job Recruiters
 - I`m mainly looking for work/ internship in backend.
