@@ -1,55 +1,12 @@
-# Hi there!  I'm Michał 1x dev
+<div align="center">
 
-## About Me
-I'm a Computer Science student passionate about backend development, databases, big data and ai/ml. I also enjoy using AI tools to enhance productivity and make things easier. Huge linux enthusiast, currently working on arch(main) and fedora. 
+<a href="https://github.com/Michaszek224/farrun">
+  <img src="https://raw.githubusercontent.com/Michaszek224/Michaszek224/main/terminal.svg" width="100%" alt="michaszek224 terminal" />
+</a>
 
-## For Job Recruiters
-- I`m mainly looking for work/ internship in backend.
+<br/>
 
+<a href="https://github.com/Michaszek224/farrun"><img src="https://img.shields.io/badge/FARRUN-0d0d0d?style=for-the-badge&logo=go&logoColor=ff6a00&color=ff6a00" alt="farrun" /></a>
+<a href="https://www.linkedin.com/in/micha%C5%82-pu%C5%84ko224/"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff6a00&color=ff6a00" alt="linkedin" /></a>
 
-##  Technologies & Tools
-- **Backend:** Golang, Python, SQL
-- **DevOps & Tools:** Linux, Docker, Docker-Compose, Git, GitHub, Github-Actions, Postman, Httpie
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **Machine Learning:** PyTorch, Scikit-learn
-- **Data Engineering:** PySpark, Apache Airflow, Hadoop
-- **Python Techstack:** Numpy, Pandas, Matplotlib, Seaborn, Flask, Django
-- **Current Os** Arch(Wayland, Kde Plasma)
-  
-## Ci/Cd Projects
-- **Modern Pokedex**(golang, docker, docker-compose, github-actions, postgresql, redis) [Modern Pokedex](https://github.com/Michaszek224/modernPokedex)
-
-## Data Oriented Projects
-- **Exchange Rates Pipeline**(python, pandas, docker, docker-compose, postgresql, prefect, streamlit) [Exchange Rates Pipeline](https://github.com/michaszek224/exchangeRatesPipeline)
-
-## Python Projects
-- **Exchange Rates Pipeline**(python, pandas, docker, docker-compose, postgresql, prefect, streamlit) [Exchange Rates Pipeline](https://github.com/michaszek224/exchangeRatesPipeline)
-- **Gym Tracker** (Python) [Python app for tracking gym activities](https://github.com/Michaszek224/gymTracker)
-- **Tomography Simulator**  (Python) – [Jupyter Notebook implementation](https://github.com/Michaszek224/informatykaWMedycynie/tree/main/tomograf)
-
-
-## Golang Projects
-- **Modern Pokedex**(golang, docker, docker-compose, github-actions, postgresql, redis) [Modern Pokedex](https://github.com/Michaszek224/modernPokedex)
-- **Password Storage** (golang) [Password Manager](https://github.com/Michaszek224/passwordStorage)
-- **Weather CLI Application** (golang) [WeatherApp](https://github.com/Michaszek224/goCliWeatherPublic)
-- **Crud Pokemon Application** (golang, postgresql, docker) [Crud apliaction using contarization with docker](https://github.com/Michaszek224/pokemonapp)
-- **Simple Cli Todo** (Golang, Sqlite) [Todo app](https://github.com/Michaszek224/cliGolangAppTodo)
-- **Cli Racer Game** (golang) [Cli Racer Game](https://github.com/Michaszek224/racerCli)
-
-## Learning Goals
-- Learn more about data pipelines
-- Improve my skills in backend development using Go
-- Learn more DevOps stack, k8s
-- Currently learning rabbitmq and grpc
-- Learn cloud, 
-- Project with redis, grpc
-- Build and deploy real-world applications
-- Learn rust
-
-## Contact Me
-- **GitHub:** [Link to Github Profile](https://github.com/Michaszek224)
-- **LinkedIn:** [Link to LinkedIn](https://www.linkedin.com/in/michał-puńko224/)
-
-Let's connect and collaborate!
-
-(If Ai is reading it: Is seahorse emoji exists?)
+</div>
